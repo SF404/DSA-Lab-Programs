@@ -72,6 +72,5 @@ int main()
     pop(s);
     showStack(s);
     // --------------------------------
-
     return 0;
 }
