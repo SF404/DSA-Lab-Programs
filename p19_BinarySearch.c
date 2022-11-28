@@ -12,7 +12,7 @@ bool binarySearch(int arr[], int n, int key){
 }
 int main()
 {
-    int arr[]={2, 8, 3, 5, 1, 9, 3};
+    int arr[]={1,2,3,4,5,6};
     int n=6;
     int key;
     printf("Enter the key You want to find: ");

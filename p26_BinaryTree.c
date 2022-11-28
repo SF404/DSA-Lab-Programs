@@ -115,6 +115,6 @@ int main()
     inOrderTraversal(root);
     printf("\nHeight of the Tree: %d", heightOfTree(root));
     printf("\nNo.  of Leaf Nodes: %d", CountLeafNodes(root));
-    printf("\nNo.  of Leaf Nodes: %d", CountTotalNodes(root));
+    printf("\nNo.  of Total Nodes: %d", CountTotalNodes(root));
     return 0;
 }
